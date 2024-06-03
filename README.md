@@ -41,7 +41,7 @@ Run the cells in `transferlearning.ipynb` to generate the other .pt model files 
 
 ## Setup
 
-The first cell in the cnnmodel.ipynb notebook checks if CUDA GPU support is available:
+The first cell in the `cnnmodel.ipynb notebook` checks if CUDA GPU support is available:
 
 ```python
 # check if CUDA is available
